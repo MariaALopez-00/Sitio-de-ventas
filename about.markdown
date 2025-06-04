@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acerda de
+title: Acerca de
 permalink: /about/
 ---
 
