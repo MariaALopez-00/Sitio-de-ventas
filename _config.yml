@@ -25,11 +25,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CompuAccesorios
 github_username:  CompuAccesorios
+author: María A López
 
 # Build settings
-# theme: 
-# plugins: []
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
 author: María A. López
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -50,7 +54,7 @@ author: María A. López
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-include:
-    - about.markdown
-    - catalog.markdown
-    - contact.markdown
+#include:
+#    - about.markdown
+#    - catalog.markdown
+#    - contact.markdown
