@@ -17,10 +17,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mi primer sitio con Jekyll
+title: CompuAccesorios
 email: marianalfo4202@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Sitio para ejemplo de uso de Jekyll
+  Sitio para comprar los mejores accesorios de computadoras
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

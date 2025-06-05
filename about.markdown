@@ -1,18 +1,11 @@
 ---
 layout: page
-title: Acerca de
+title: Misión y Visión
 permalink: /about/
 ---
 
-Hola! Este es un sitio web estático hecho con Jekyll.
+## Misión
+Proveer a nuestros clientes de accesorios de computadora de alta calidad, con un enfoque en la innovación, el confort y el rendimiento, garantizando una experiencia de compra segura, accesible y satisfactoria.
 
-Puedes encontrar este sitio web en el repositorio de GitHub:
-[perfil](https://github.com/MariaALopez-00) / 
-[repositorio](https:https://github.com/MariaALopez-00/Sitio-con-Jekyll)
-
-Puedes encontrar el código fuente de Jekyll en GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+## Visión
+Ser la tienda en línea líder en accesorios de computadoras en la región, reconocida por su excelente servicio, variedad de productos y compromiso con la tecnología y la satisfacción del cliente.
