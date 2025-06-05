@@ -18,16 +18,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: CompuAccesorios
-email: marianalfo4202@gmail.com
+email: compuaccesorios@CAventas.com.gt
 description: >- # this means to ignore newlines until "baseurl:"
   Sitio para comprar los mejores accesorios de computadoras
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Sitio-" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: CompuAccesorios
+github_username:  CompuAccesorios
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 author: María A. López
@@ -51,3 +51,7 @@ author: María A. López
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+include:
+    - about.markdown
+    - catalog.markdown
+    - contact.markdown
