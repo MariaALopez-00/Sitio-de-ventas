@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Inicio
-permalink: "{{ site.baseurl }}/"
+permalink: "/"
 ---
 
 Somos tu tienda en línea especializada en accesorios de computadoras. Aquí encontrarás una amplia selección de teclados, mouse, audífonos, bocinas y muchos artículos cuidadosamente seleccionados para mejorar tu experiencia digital. 
