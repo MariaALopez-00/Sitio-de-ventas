@@ -1,7 +1,7 @@
 ---
 layout: base
 title: ¡Bienvenido!
-permalink: /
+permalink: "{{ site.baseurl }}/"
 ---
 
 <a class="site-title" rel="author" href="{{ site.baseurl }}/">CompuAccesorios</a>
