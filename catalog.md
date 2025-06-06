@@ -4,7 +4,7 @@ title: Catalógo
 permalink: /catalog/
 ---
 
-En CompuAccesorios te ofrecemos una selección especializada de accesorios para computadora pensados para mejorar tu productividad, comodidad y experiencia digital. Ya sea que trabajes, estudies o juegues, aquí encontrarás productos de calidad para cada necesidad y estilo.<br>
+En CompuAccesorios te ofrecemos una selección especializada de accesorios para computadora pensados para mejorar tu productividad, comodidad y experiencia digital. Ya sea que trabajes, estudies o juegues, aquí encontrarás productos de calidad para cada necesidad y estilo.
 
 <br><h2>Accesorios disponibles:</h2>
 Teclados mecánicos y de membrana<br>
