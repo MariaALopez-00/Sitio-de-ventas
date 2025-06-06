@@ -1,6 +1,6 @@
 ---
 layout: base
-title: ¡Bienvenido!
+title: Inicio
 permalink: "{{ site.baseurl }}/"
 ---
 
