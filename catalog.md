@@ -6,7 +6,7 @@ permalink: /catalog/
 
 En CompuAccesorios te ofrecemos una selección especializada de accesorios para computadora pensados para mejorar tu productividad, comodidad y experiencia digital. Ya sea que trabajes, estudies o juegues, aquí encontrarás productos de calidad para cada necesidad y estilo.<br>
 
-<br><h3>Accesorios disponibles:<h3/>
+<br><h2>Accesorios disponibles:</h2>
 Teclados mecánicos y de membrana<br>
 Mouse ópticos y gamer<br>
 Bocinas y barras de sonido<br>
